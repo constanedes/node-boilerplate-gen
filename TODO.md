@@ -1,4 +1,4 @@
-<!-- # Posibles integraciones
+# Posibles integraciones
 
 ## Control de versiones
 
@@ -27,7 +27,7 @@
 - TODOS.md
 - CONTRIBUTING.md
 - FUNDING.md
-- TODOS.md
+- TODO.md
 - README.md
 - LICENSE.md
 
@@ -37,4 +37,3 @@
 - Husky
 - Nodemon
 - Vite
- -->

@@ -11,6 +11,6 @@ then
   echo "${RED} ❌ Linter errors have occurred."
   exit 1
 else
-  echo "${GREEN} ✔ Rome did not find any errors."
+  echo "${GREEN} ✔ Rome ran without errors."
   exit 0
 fi
